@@ -211,6 +211,41 @@ python test.py
 
 ---
 
+---
+## Samples:
+## Example 1
+
+```
+Plaintext : HELLO
+Key       : 7
+Ciphertext: XCZZU
+Hash      : 83355210
+Decrypted : HELLO
+```
+
+## Example 2
+
+```
+Plaintext : WORLD
+Key       : 7
+Ciphertext: YUPZV
+Hash      : 84805360
+Decrypted : WORLD
+```
+
+## Example 3
+
+```
+Plaintext : CAR
+Key       : 7
+Ciphertext: OAP
+Hash      : 78014
+Decrypted : CAR
+```
+<img width="692" height="490" alt="image" src="https://github.com/user-attachments/assets/7d1a8329-8b22-40c1-95db-5e4e43c7421c" />
+
+
+
 ## 7. Notes
 
 * The key must be coprime with 26 for decryption to work correctly.
