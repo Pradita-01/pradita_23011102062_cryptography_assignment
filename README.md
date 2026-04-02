@@ -194,6 +194,7 @@ Decrypted: CAR
 
 ---
 
+
 ## 6. How to Run the Project
 
 1. Ensure Python (version 3.8 or above) is installed.
